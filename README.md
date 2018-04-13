@@ -15,7 +15,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **12**<br>19.3.-<br>25.3. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja | **DL2**<br>01:59<br> |  |
 | **13**<br>26.3.-<br>1.4. |  |  |  |  |  |  |  |
 | **14**<br>2.4.-<br>8.4. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja | **DL3**<br>01:59<br> |  |
-| **15**<br>9.4.-<br>15.4. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja | **DL4**<br>01:59<br> |  |
+| **15**<br>9.4.-<br>15.4. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja |  | **DL4**<br>12:00<br> |
 | **16**<br>16.4.-<br>22.4. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja | **DL5**<br>01:59<br> |  |
 | **17**<br>23.4.-<br>29.4. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja | **DL6**<br>01:59<br> |  |
 | **18**<br>30.4.-<br>6.5. |  |  |  |  | **Paja**<br>15-19<br>Yläpaja |  |  |
